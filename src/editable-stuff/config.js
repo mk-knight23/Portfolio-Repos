@@ -59,7 +59,7 @@ const repos = {
   show: true,
   heading: "ALL Projects On Github , Feel Free To Explore",
   gitHubUsername: "mk-knight23", //i.e."johnDoe12Gh"
-  reposLength: 1000,
+  reposLength: 10,
   specificRepos: ["WebsiteChatGpt","Clock-REACT","Capstone-World-app","Squid-game","ReactVercel"],
 };
 
